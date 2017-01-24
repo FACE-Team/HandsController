@@ -1,0 +1,11 @@
+LeapFrameReceiver
+
+legge da yarp un frame (libreria leap) ed estrae i valori (float tra zero e uno) necessari per il controllo delle mani
+
+cliccando sul bottone "start receive" si avvia la ricezione dei frame su una porta yarp, l'estrazione dei parametri e l'invio su un'altra porta dei valori di controllo.
+
+Cliccando di nuovo si interrompe la ricezione dei frame e l'invio dei valori.
+
+Il pannello sulla destra mostra la configurazione degli ultimi dati validi ricevuti
+
+la barra in basso riporta lo stato del server yarp e della porta yarp di output dei frame

@@ -1,0 +1,99 @@
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\bin\Debug\LeapFrameReceiver.exe.config
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\YarpLeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\YarpLeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver2\obj\x86\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver2\obj\x86\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\bin\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\bin\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.g.resources
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\bin\Debug\LeapFrameReceiver.exe.config
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\bin\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\bin\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.g.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\bin\Debug\LeapFrameReceiver.exe.config
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\bin\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\bin\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.g.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - threadpool\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\bin\Debug\LeapFrameReceiver.exe.config
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\bin\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\bin\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.g.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\bin\Debug\LeapFrameReceiver.exe.config
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\bin\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\bin\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.g.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver - per github\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\bin\Debug\LeapFrameReceiver.exe.config
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\bin\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\bin\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.g.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameReceiver\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapFrameReceiver.exe.config
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\Leap.dll
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapCSharp.dll
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapFrameReceiver.exe
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapFrameReceiver.pdb
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver_Content.g.cs
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver_MarkupCompile.cache
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.g.resources
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.Properties.Resources.resources
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameReceiver\obj\x86\Debug\LeapFrameReceiver.csproj.GenerateResource.Cache

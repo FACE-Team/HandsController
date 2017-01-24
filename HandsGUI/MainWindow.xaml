@@ -1,0 +1,370 @@
+﻿<Window x:Class="HandsControllerGui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hands GUI" Height="527" Width="642" Closing="WindowClosing" ResizeMode="CanMinimize">
+    <Grid Background="WhiteSmoke">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+       
+        <Grid Grid.Row="0">
+            <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="Margin" Value="15 0 15 0"/>
+                </Style>
+            </StackPanel.Resources>
+            <Image Width="130" Source="/Images/cp_trasparente.png"/>
+            <Image Width="140" Source="/Images/faceteam_trasparente.png"/>
+            <Image Width="100" Source="/Images/Unipi_trasparente.png"/>
+        </StackPanel>
+        </Grid>
+
+
+        <Grid Grid.Row="1">
+
+            <StackPanel Orientation="Horizontal" Background="AliceBlue" >
+                <StackPanel.Resources>
+                    <Style TargetType="{x:Type RadioButton}">
+                        <Setter Property="HorizontalAlignment" Value="Left"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="Margin" Value="10,0,0,0"/>
+                        <EventSetter Event="Checked" Handler="ControlRadioButtonChecked" />
+                    </Style>
+                </StackPanel.Resources>
+
+                <RadioButton Name ="radbtnLeap" Content="Leap" />
+                <RadioButton Name ="radbtnManual" Content="Manual" IsChecked="True"/>
+                <RadioButton Name ="radbtnIclips" Content="Posture/Gesture"/>
+                <!--<RadioButton Name ="radbtnOther" Content="Other" />-->
+
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Margin="0,35,-0.4,0.2" Grid.RowSpan="2" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="315" />
+                <ColumnDefinition Width="315" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0"  
+                    Margin="5,5,5,5"
+                CornerRadius="2"
+                BorderBrush="Gray"
+                BorderThickness="2"
+               >
+                <StackPanel Name="spControl" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <StackPanel   Orientation="Vertical" Width="100" HorizontalAlignment="Center">
+                        <StackPanel.Resources>
+                            <Style TargetType="{x:Type Slider}">
+                                <Setter Property="Height" Value="23"/>
+                                <Setter Property="Margin" Value="5,5,5,0"/>
+                                <Setter Property="Minimum" Value="0"/>
+                                <Setter Property="Maximum" Value="1"/>
+                                <Setter Property="LargeChange" Value="0.2"/>
+                                <EventSetter Event="ValueChanged" Handler="sld_ValueChanged" />
+                                <Setter Property="Value" Value="0.5"/>
+                            </Style>
+                        </StackPanel.Resources>
+                        <Label Content="Left Hand" Margin="5,5,5,0" FontSize="13" HorizontalContentAlignment="Center"/>
+                        <Slider Name="sldLH1"/>
+                        <Slider Name="sldLH2"/>
+                        <Slider Name="sldLH3"/>
+                        <Slider Name="sldLH4"/>
+                        <Slider Name="sldLH5"/>
+                        <Slider Name="sldLH6"/>
+                        <Slider Name="sldLH7"/>
+                        <Slider Name="sldLH8"/>
+                        <Slider Name="sldLH9"/>
+                    </StackPanel>
+                    <!--<StackPanel>
+                        <StackPanel.Resources>
+                            <Style TargetType="{x:Type CheckBox}">
+                                <Setter Property="Height" Value="23"/>
+                                <Setter Property="Margin" Value="-6,5,3,0"/>
+                                
+                            </Style>
+                            </StackPanel.Resources>
+                        <Label Content ="" Margin="0,6,0,0" FontSize="13" HorizontalContentAlignment="Center" />
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                    </StackPanel>-->
+                    <StackPanel   Orientation="Vertical" Width="85" HorizontalAlignment="Center">
+                        <StackPanel.Resources>
+                            <Style TargetType="{x:Type Label}">
+                                <Setter Property="Height" Value="28"/>
+                                <Setter Property="Margin" Value="5,0,5,0"/>
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                            </Style>
+                        </StackPanel.Resources>
+                        <Label Content="" Margin="5,3,5,0"/>
+                        <Label Content="Thumb flex"/>
+                        <Label Content="Index flex"/>
+                        <Label Content="Middle flex"/>
+                        <Label Content="Ring flex"/>
+                        <Label Content="Pinky flex"/>
+                        <Label Content="Thumb abd"/>
+                        <Label Content="Index abd"/>
+                        <Label Content="Middle abd"/>
+                        <Label Content="Wrist"/>
+                    </StackPanel>
+                    <!--<StackPanel>
+                        <StackPanel.Resources>
+                            <Style TargetType="{x:Type CheckBox}">
+                                <Setter Property="Height" Value="23"/>
+                                <Setter Property="Margin" Value="3,5,-6,0"/>
+
+                            </Style>
+                        </StackPanel.Resources>
+                        <Label Content ="" Margin="0,6,0,0" FontSize="13" HorizontalContentAlignment="Center" />
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                        <CheckBox/>
+                    </StackPanel>-->
+                    <StackPanel   Orientation="Vertical" Width="100" HorizontalAlignment="Center">
+                        <StackPanel.Resources>
+                            <Style TargetType="{x:Type Slider}">
+                                <Setter Property="Height" Value="23"/>
+                                <Setter Property="Margin" Value="5,5,5,0"/>
+                                <Setter Property="Minimum" Value="0"/>
+                                <Setter Property="Maximum" Value="1"/>
+                                <Setter Property="LargeChange" Value="0.2"/>
+                                <EventSetter Event="ValueChanged" Handler="sld_ValueChanged" />
+                                <Setter Property="Value" Value="0.5"/>
+                            </Style>
+                        </StackPanel.Resources>
+                        <Label Content="Right Hand" Margin="5,5,5,0" FontSize="13" HorizontalContentAlignment="Center"/>
+                        <Slider Name="sldRH1" Uid=""/>
+                        <Slider Name="sldRH2"/>
+                        <Slider Name="sldRH3"/>
+                        <Slider Name="sldRH4"/>
+                        <Slider Name="sldRH5"/>
+                        <Slider Name="sldRH6"/>
+                        <Slider Name="sldRH7"/>
+                        <Slider Name="sldRH8"/>
+                        <Slider Name="sldRH9"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+
+            <StackPanel Grid.Column="1">
+                <Border  Margin="5,5,5,5" 
+                CornerRadius="2"
+                BorderBrush="Gray"
+                BorderThickness="2"
+               >
+                    <StackPanel  Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
+                            <StackPanel Margin="0,0,10,0">
+                                <Label Content="Left Serial Port" HorizontalContentAlignment="Center"/>
+                                <ComboBox Name ="cbLeft" Width="120" SelectionChanged="cbSelectionChanged"/>
+                                <!--<CheckBox Name="ctrlSx" Content="Ctrl Sx" Click="CheckBox_Checked"/>-->
+                            </StackPanel>
+                            <StackPanel Margin="10,0,0,0">
+                                <Label Content="Right Serial Port" HorizontalContentAlignment="Center"/>
+                                <ComboBox Name ="cbRight" Width="120" SelectionChanged="cbSelectionChanged"/>
+                                <!--<CheckBox Name="ctrlDx" Content="Ctrl Dx" Click="CheckBox_Checked"/>-->
+                            </StackPanel>
+                        </StackPanel>
+                        <Button Content="Refresh serial" Height="28" Width="100" Click="RefreshSerialList" Margin="2"/>
+                        <Button Name="btnSerial" Content="Start serial" Height="28" Width="100" Click="SerialCommunication" Margin="4,20,4,4"/>
+                        
+                        <Label Name="labpro1" Height="25"/>
+                        <Label Name="labpro2" Height="25"/>
+                        <Label  Height="25"/>
+                        <Label  Height="25"/>
+                        <Label  Height="25"/>
+                        <Label  Height="9"/>
+                    </StackPanel>
+
+                </Border>
+
+                <!--<Border  Margin="5,5,5,5" 
+                CornerRadius="2"
+                BorderBrush="Gray"
+                BorderThickness="2"
+                         Height="64"
+               >
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Button Name="btnRec" Content="Start rec" Width="62" HorizontalAlignment="Left" Margin="10,10,5,10" Height="30" Click="btnRec_Click"/>
+                        <TextBox Name="tbRecName" Text="animationName" Width ="100" Height="23" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
+                        <Button Name="btnPlay" Content="Play" Width="62" Margin="50,10,10,10" Height="30" Click="btnPlay_Click"/>
+
+                    </StackPanel>
+                </Border>-->
+            
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="3"  Grid.RowSpan="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="630" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0"  
+                    Margin="5,5,5,5"
+                CornerRadius="2"
+                BorderBrush="Gray"
+                BorderThickness="0">
+                <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <StackPanel.Resources>
+                            <Style TargetType="{x:Type Button}">
+                                <Setter Property="Height" Value="28"/>
+                                <Setter Property="Margin" Value="15,6,15,6"/>
+                                <Setter Property="FontSize" Value="14"/>
+                                <Setter Property="Width" Value="110"/>
+                            </Style>
+                        </StackPanel.Resources>
+
+                        <Border Grid.Column="0"  
+                                Margin="15,0,15,0"
+                                CornerRadius="2"
+                                BorderBrush="Gray"
+                                BorderThickness="2"
+                                >
+                            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" >
+                                <Button Content="Save Posture" Click="SavePosture"  ></Button>
+                                <Button Content="Load Posture"  Click="LoadPosture" ></Button>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Grid.Column="0"  
+                                Margin="15,0,15,0"
+                                CornerRadius="2"
+                                BorderBrush="Gray"
+                                BorderThickness="2">
+                            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" >
+                                <Button Name ="btnRecGesture" Content="Save Gesture"  Click="SaveGesture" ></Button>
+                                <Button Content="Load Gesture"  Click="LoadGesture" ></Button>
+                            </StackPanel>
+                        </Border>
+
+                    </StackPanel>
+
+
+                    <!--<StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" >
+                        <StackPanel Name="spConfigurations" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" >
+                            <StackPanel.Resources>
+                                <Style TargetType="{x:Type Button}">
+                                    <Setter Property="Height" Value="35"/>
+                                    <Setter Property="Width" Value="45"/>
+                                    <Setter Property="Margin" Value="6"/>
+                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                    <EventSetter Event="Click" Handler="loadConf"/>
+                                    <EventSetter Event="MouseRightButtonDown" Handler="saveConf"/>
+
+                                </Style>
+                            </StackPanel.Resources>
+                            <Button Name="btnConf01" Content="1"/>
+                            <Button Name="btnConf02" Content="2"/>
+                            <Button Name="btnConf03" Content="3"/>
+                            <Button Name="btnConf04" Content="4"/>
+                            <Button Name="btnConf05" Content="5"/>
+                            <Button Name="btnConf06" Content="6" />
+                            <Button Name="btnConf07" Content="7"/>
+                            <Button Name="btnConf08" Content="8"/>
+                            <Button Name="btnConf09" Content="9"/>
+                            <Button Name="btnConf10" Content="10"/>
+                        </StackPanel>
+                        <Button Margin="8,0,2,0" Content="Reset" Background="DarkGray" Height="20" Width="35" Click="Button_Click_1"/>
+                    </StackPanel>-->
+
+                    
+                    
+                </StackPanel>
+            </Border>
+        </Grid>
+
+        <Grid Grid.Row="5" >
+            
+            <Border  Margin="0,0,0,0"  BorderBrush="Gray" BorderThickness="1" >
+                <StackPanel Name="Yarp" Orientation="Horizontal" Background="#FFFFEE9F">
+                    <StackPanel.Resources>
+                        <Style TargetType="{x:Type Ellipse}">
+                            <Setter Property="Height" Value="10"/>
+                            <Setter Property="Width" Value="10"/>
+                            <Setter Property="Margin" Value="5,0,1,0"/>
+                            <Setter Property="Fill" Value="Red"/>
+                        </Style>
+                        <Style TargetType="{x:Type Label}">
+                            <Setter Property="FontSize" Value="12"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                        </Style>
+                        <Style TargetType="{x:Type Separator}">
+                            <Setter Property="BorderBrush" Value="Gray"/>
+                            <Setter Property="Width" Value="35"/>
+                            <Setter Property="Height" Value="3"/>
+                            <Setter Property="Margin" Value="-10,16,-10,0"/>
+                            <Setter Property="RenderTransformOrigin" Value="0.5,0.5"/>
+                            <Setter Property="VerticalAlignment" Value="Top"/>
+                        </Style>
+                    </StackPanel.Resources>
+
+                    <Ellipse Name="YarpServerStatus" />
+                    <Label Content="Yarp Server" />
+                    <Separator>
+                        <Separator.RenderTransform>
+                            <RotateTransform Angle="90"/>
+                        </Separator.RenderTransform>
+                    </Separator>
+
+                    <Ellipse Name="HandsStatus"/>
+                    <Label Content="Hands Sender"/>
+                    <Separator>
+                        <Separator.RenderTransform>
+                            <RotateTransform Angle="90"/>
+                        </Separator.RenderTransform>
+                    </Separator>
+
+                    <Ellipse Name="PostureStatus"/>
+                    <Label Content="Hands Posture"/>
+                    <Separator>
+                        <Separator.RenderTransform>
+                            <RotateTransform Angle="90"/>
+                        </Separator.RenderTransform>
+                    </Separator>
+
+                    <Ellipse Name="GestureStatus"/>
+                    <Label Content="Hands Gesture"/>
+                    <Separator>
+                        <Separator.RenderTransform>
+                            <RotateTransform Angle="90"/>
+                        </Separator.RenderTransform>
+                    </Separator>
+
+                    <!--<Ellipse Name="OtherStatus"/>
+                    <Label Content="Other"/>
+                    <Separator>
+                        <Separator.RenderTransform>
+                            <RotateTransform Angle="90"/>
+                        </Separator.RenderTransform>
+                    </Separator>-->
+                </StackPanel>
+            </Border>
+        </Grid>
+
+
+    </Grid>
+</Window>

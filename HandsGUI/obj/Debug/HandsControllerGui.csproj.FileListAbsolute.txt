@@ -1,0 +1,61 @@
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\bin\Debug\HandsControllerGui.exe.config
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.exe
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.pdb
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\bin\Debug\HandsControllerGui.exe
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\bin\Debug\HandsControllerGui.pdb
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.g.resources
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\SaveDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\SaveDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\PlayDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\PlayDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\HandsControllerGui\HandsControllerGui\HandsControllerGui\bin\Debug\ComUtils.dll
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\bin\Debug\HandsControllerGui.exe.config
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\bin\Debug\HandsControllerGui.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\bin\Debug\HandsControllerGui.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\FileListDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\FileNameDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\PlayDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\SaveDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\FileListDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\FileNameDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\PlayDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\SaveDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.g.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\bin\Debug\HandsControllerGui.exe.config
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\FileListDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\FileNameDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\PlayDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\SaveDialog.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\FileListDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\FileNameDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\PlayDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\SaveDialog.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.g.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\obj\Debug\HandsControllerGui.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\bin\Debug\HandsControllerGui.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\bin\Debug\HandsControllerGui.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\HandsControllerGui\HandsControllerGui\bin\Debug\ComUtils.dll

@@ -1,0 +1,55 @@
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\MainWindow.baml
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\MainWindow.g.cs
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\App.g.cs
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver_MarkupCompile.cache
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.g.resources
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.Properties.Resources.resources
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.csproj.GenerateResource.Cache
+D:\GIT_Repository\bin\Debug\YarpReceiver.exe.config
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.csprojResolveAssemblyReference.cache
+D:\GIT_Repository\bin\Debug\YarpReceiver.exe
+D:\GIT_Repository\bin\Debug\YarpReceiver.pdb
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.exe
+D:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.pdb
+E:\GIT_Repository\bin\Debug\YarpReceiver.exe.config
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.exe
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.pdb
+E:\GIT_Repository\bin\Debug\YarpReceiver.exe
+E:\GIT_Repository\bin\Debug\YarpReceiver.pdb
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\MainWindow.baml
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\MainWindow.g.cs
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\App.g.cs
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver_MarkupCompile.cache
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.g.resources
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.Properties.Resources.resources
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.csproj.GenerateResource.Cache
+E:\GIT_Repository\CommunicationSystem\YarpReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.csprojResolveAssemblyReference.cache
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.exe
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.pdb
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\bin\Debug\YarpReceiver.exe.config
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\bin\Debug\YarpReceiver.exe
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\bin\Debug\YarpReceiver.pdb
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.csprojResolveAssemblyReference.cache
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\MainWindow.baml
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\MainWindow.g.cs
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\App.g.cs
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver_MarkupCompile.cache
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.g.resources
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.Properties.Resources.resources
+E:\GIT_Repository\CommunicationSystem\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\bin\Debug\YarpReceiver.exe.config
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\bin\Debug\YarpReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\bin\Debug\YarpReceiver.pdb
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.g.resources
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\YarpReceiverAurora\YarpReceiver\obj\x86\Debug\YarpReceiver.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameReceiver\bin\Debug\YarpReceiver.exe.config
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.exe
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameReceiver\YarpReceiver\obj\x86\Debug\YarpReceiver.pdb

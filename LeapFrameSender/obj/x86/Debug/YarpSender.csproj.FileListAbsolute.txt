@@ -1,0 +1,68 @@
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\YarpSender.csprojResolveAssemblyReference.cache
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\MainWindow.baml
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\MainWindow.g.cs
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\App.g.cs
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\YarpSender_MarkupCompile.cache
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\YarpSender.g.resources
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\YarpSender.Properties.Resources.resources
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\YarpSender.csproj.GenerateResource.Cache
+D:\GIT_Repository\bin\Debug\YarpSender.exe.config
+D:\GIT_Repository\bin\Debug\YarpSender.exe
+D:\GIT_Repository\bin\Debug\YarpSender.pdb
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\YarpSender.exe
+D:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\YarpSender.pdb
+E:\GIT_Repository\bin\Debug\YarpSender.exe.config
+E:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\YarpSender.exe
+E:\GIT_Repository\CommunicationSystem\YarpSender\YarpSender\obj\x86\Debug\YarpSender.pdb
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.exe
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.pdb
+E:\GIT_Repository\bin\Debug\YarpSender.exe
+E:\GIT_Repository\bin\Debug\YarpSender.pdb
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.csprojResolveAssemblyReference.cache
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\MainWindow.baml
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\MainWindow.g.cs
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\App.g.cs
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender_MarkupCompile.cache
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.g.resources
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.Properties.Resources.resources
+E:\GIT_Repository\CommunicationSystem\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.csproj.GenerateResource.Cache
+I:\bin\Debug\YarpSender.exe.config
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.exe
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.pdb
+I:\YarpSenderAndrea\bin\Debug\YarpSender.exe.config
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.csprojResolveAssemblyReference.cache
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\MainWindow.baml
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\MainWindow.g.cs
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\App.g.cs
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender_MarkupCompile.cache
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.g.resources
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.Properties.Resources.resources
+I:\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.csproj.GenerateResource.Cache
+I:\YarpSenderAndrea\bin\Debug\YarpSender.exe
+I:\YarpSenderAndrea\bin\Debug\YarpSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\bin\Debug\YarpSender.exe.config
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.exe
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\bin\Debug\YarpSender.exe
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\bin\Debug\YarpSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.g.resources
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\YarpSenderAndrea\YarpSender\obj\x86\Debug\YarpSender.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\bin\Debug\YarpLeapFrameSender.exe.config
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\bin\Debug\YarpLeapFrameSender.exe
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\bin\Debug\YarpLeapFrameSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\YarpSender.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\YarpLeapFrameSender_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\YarpLeapFrameSender.g.resources
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\YarpLeapFrameSender.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\YarpSender.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\YarpLeapFrameSender.exe
+C:\Users\Andrea\Documents\face\c sharp\YarpLeapFrameSender\YarpSender\obj\x86\Debug\YarpLeapFrameSender.pdb

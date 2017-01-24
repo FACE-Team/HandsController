@@ -1,0 +1,29 @@
+LeapFrameSender
+
+Riceve le informazioni rilevate dal sensore Leap Motion e le rende disponibili su una porta yarp
+
+Questo software deve girare su una macchina alla quale è collegato il sensore leap motion.
+
+
+
+Una volta avviato il software è possibile scegliere quanto spesso pubblicare sulla porta yarp nuovi dati
+interagendo con lo slider e/o con il textbox posto sotto la scritta "ms between frames".
+Il tempo tra due messaggi inviati consecutivi può essere scelto tra 10 e 2000 ms.
+
+Cliccando sul bottone "start send" / "stop send" è possibile avviare o interrompere l'invio dei dati
+
+Se non sono presenti mani nel campo del sensore non verrà inviato alcun dato.
+
+I dati sono raccolti in un oggetto "frame" della libreria leap e contiene informazioni 
+circa la posizione delle mani nello spazio del sensore, eventuali gesti rilevati (click, rotazioni, swipe),...
+
+https://developer.leapmotion.com/documentation/v2/csharp/api/Leap.Frame.html
+https://developer.leapmotion.com/documentation/v2/csharp/api/Leap.Hand.html
+https://developer.leapmotion.com/documentation/v2/csharp/api/Leap.Gesture.html
+
+La barra in basso indica lo stato del server yarp (rosso il software non vede un server yarp attivo, verde lo vede), la presenza del sensore leap motion (verde ok, rosso sensore non collegato o driver/deamon leap non avviati correttamente) e il focus del sensore leap motion (per poter ricevere i dati dal sensore il software deve avere il focus - essere in primo piano su windows)
+
+
+
+sul vaio piccolo ogni tanto il servizio leap non parte, allora task manager -> servizi -> leapservice (se c'è ed è stopped ) -> clicca col destro -> restart 
+altrimenti cercare in program files 86, leap motion, core services, avviare leapsvc64.exe , eventualmente ripetere la storia del task manager

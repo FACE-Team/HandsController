@@ -1,0 +1,242 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="LeapFrameReceiver.MainWindow"
+        Title="Leap Frame Receiver" Height="430" Width="504" ResizeMode="CanMinimize" >
+    <Grid Background="WhiteSmoke">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="35" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="Margin" Value="8 0 8 0"/>
+                </Style>
+            </StackPanel.Resources>
+            <Image Width="130" Source="/Images/cp_trasparente.png"/>
+            <Image Width="140" Source="/Images/faceteam_trasparente.png"/>
+            <Image Width="100" Source="/Images/Unipi_trasparente.png"/>
+        </StackPanel>
+
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="180" />
+                <ColumnDefinition Width="310" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0"  Margin="2,2,2,2" CornerRadius="2" BorderBrush="Gray" BorderThickness="2">
+                <StackPanel Margin="5,5,5,5" HorizontalAlignment="Center">
+                    <Button Content="Start Receive" Height="23" HorizontalAlignment="Left" Margin="5,5,0,0" x:Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click"   />
+                    <StackPanel  Margin="0,5,5,5" HorizontalAlignment="Left">
+
+                        <StackPanel Margin="0,5,0,0" HorizontalAlignment="Right" Orientation="Horizontal">
+                            <Label Content="Frames received" HorizontalAlignment="Left" Height="32"  VerticalAlignment="Top" Width="100"/>
+                            <Label x:Name="lblFrameReceived" Content="0" HorizontalAlignment="Left" Height="32"  Margin="5,0,0,0" VerticalAlignment="Top" Width="45" HorizontalContentAlignment="Right"/>
+                        </StackPanel>
+
+                        <StackPanel Margin="0,5,0,0" HorizontalAlignment="Right" Orientation="Horizontal">
+                            <Label Content="Left Hands sent" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="100"/>
+                            <Label x:Name="lblLHSent" Content="0" HorizontalAlignment="Right" Height="32" Margin="5,0,0,0" VerticalAlignment="Top" Width="45" HorizontalContentAlignment="Right"/>
+                        </StackPanel>
+
+                        <StackPanel Margin="0,5,0,0" HorizontalAlignment="Right" Orientation="Horizontal">
+                            <Label Content="Right Hands sent" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="100"/>
+                            <Label x:Name="lblRHSent" Content="0" HorizontalAlignment="Left" Height="32" Margin="5,0,0,0" VerticalAlignment="Top" Width="45" HorizontalContentAlignment="Right"/>
+
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+
+            </Border>
+
+            <Border Grid.Column="1"  Margin="2,2,2,2" CornerRadius="2" BorderBrush="Gray" BorderThickness="2">
+                <StackPanel x:Name="HandsInfo" Margin="5,5,5,5" HorizontalAlignment="Center">
+                    <StackPanel  HorizontalAlignment="Left" Margin="0,10,0,0" Orientation="Horizontal">
+                        <StackPanel x:Name="LeftHand" HorizontalAlignment="Right">
+
+                            <Label Content="Left Hand" HorizontalAlignment="Center" Height="30" VerticalAlignment="Top" />
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+
+                                <StackPanel IsEnabled="False">
+                                    <StackPanel.Resources>
+                                        <Style TargetType="{x:Type Slider}">
+                                            <Setter Property="Margin" Value="0,4,0,-4"/>
+                                            <Setter Property="Width" Value="60"/>
+                                            <Setter Property="Height" Value="26"/>
+                                            <Setter Property="Minimum" Value="0"/>
+                                            <Setter Property="Maximum" Value="1"/>
+                                        </Style>
+                                    </StackPanel.Resources>
+                                    <Slider x:Name="sldLH1"/>
+                                    <Slider x:Name="sldLH2"/>
+                                    <Slider x:Name="sldLH3"/>
+                                    <Slider x:Name="sldLH4"/>
+                                    <Slider x:Name="sldLH5"/>
+                                    <Slider x:Name="sldLH6"/>
+                                    <Slider x:Name="sldLH7"/>
+                                    <Slider x:Name="sldLH8"/>
+                                    <Slider x:Name="sldLH9"/>
+                                </StackPanel>
+
+                                <StackPanel>
+                                    <StackPanel.Resources>
+                                        <Style TargetType="{x:Type Label}">
+                                            <Setter Property="Width" Value="50"/>
+                                            <Setter Property="Height" Value="26"/>
+                                            <Setter Property="VerticalAlignment" Value="Center"/>
+                                            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+
+                                        </Style>
+                                    </StackPanel.Resources>
+                                    <Label x:Name="lblLH1" Content=""/>
+                                    <Label x:Name="lblLH2" Content=""/>
+                                    <Label x:Name="lblLH3" Content=""/>
+                                    <Label x:Name="lblLH4" Content=""/>
+                                    <Label x:Name="lblLH5" Content=""/>
+                                    <Label x:Name="lblLH6" Content=""/>
+                                    <Label x:Name="lblLH7" Content=""/>
+                                    <Label x:Name="lblLH8" Content=""/>
+                                    <Label x:Name="lblLH9" Content=""/>
+                                </StackPanel>
+
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel x:Name="labels" HorizontalAlignment="Left">
+                            <StackPanel.Resources>
+                                <Style TargetType="{x:Type Label}">
+                                    <Setter Property="Height" Value="26" />
+                                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                                </Style>
+                            </StackPanel.Resources>
+
+                            <Label Content="" HorizontalAlignment="Center" Height="30" VerticalAlignment="Top" />
+                            <Label Content="Thumb flex"/>
+                            <Label Content="Index flex"/>
+                            <Label Content="Middle flex"/>
+                            <Label Content="Ring flex"/>
+                            <Label Content="Pinky flex"/>
+                            <Label Content="Thumb abd"/>
+                            <Label Content="Index abd"/>
+                            <Label Content="Middle abd"/>
+                            <Label Content="Wrist"/>
+                        </StackPanel>
+
+                        <StackPanel x:Name="RightHand" HorizontalAlignment="Right">
+
+                            <Label Content="Right Hand" HorizontalAlignment="Center" Height="30" VerticalAlignment="Top" />
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <StackPanel>
+                                    <StackPanel.Resources>
+                                        <Style TargetType="{x:Type Label}">
+                                            <Setter Property="Width" Value="50"/>
+                                            <Setter Property="Height" Value="26"/>
+                                            <Setter Property="VerticalAlignment" Value="Center"/>
+                                            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+
+                                        </Style>
+                                    </StackPanel.Resources>
+                                    <Label x:Name="lblRH1" Content=""/>
+                                    <Label x:Name="lblRH2" Content=""/>
+                                    <Label x:Name="lblRH3" Content=""/>
+                                    <Label x:Name="lblRH4" Content=""/>
+                                    <Label x:Name="lblRH5" Content=""/>
+                                    <Label x:Name="lblRH6" Content=""/>
+                                    <Label x:Name="lblRH7" Content=""/>
+                                    <Label x:Name="lblRH8" Content=""/>
+                                    <Label x:Name="lblRH9" Content=""/>
+                                </StackPanel>
+
+
+                                <StackPanel IsEnabled="False">
+                                    <StackPanel.Resources>
+                                        <Style TargetType="{x:Type Slider}">
+                                            <Setter Property="Margin" Value="0,4,0,-4"/>
+                                            <Setter Property="Width" Value="60"/>
+                                            <Setter Property="Height" Value="26"/>
+                                            <Setter Property="Minimum" Value="0"/>
+                                            <Setter Property="Maximum" Value="1"/>
+
+                                        </Style>
+                                    </StackPanel.Resources>
+                                    <Slider x:Name="sldRH1"/>
+                                    <Slider x:Name="sldRH2"/>
+                                    <Slider x:Name="sldRH3"/>
+                                    <Slider x:Name="sldRH4"/>
+                                    <Slider x:Name="sldRH5"/>
+                                    <Slider x:Name="sldRH6"/>
+                                    <Slider x:Name="sldRH7"/>
+                                    <Slider x:Name="sldRH8"/>
+                                    <Slider x:Name="sldRH9"/>
+                                </StackPanel>
+
+
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+
+            </Border>
+
+
+
+        </Grid>
+
+
+
+
+
+        <Grid Grid.Row="2">
+            <Border  Margin="0,0,0,0"  BorderBrush="Gray" BorderThickness="1">
+                <StackPanel  x:Name="Yarp" Orientation="Horizontal" Background="#FFFFEE9F" >
+                <StackPanel.Resources>
+                    <Style TargetType="{x:Type Ellipse}">
+                        <Setter Property="Margin" Value="5,0,1,0"/>
+                        <Setter Property="Height" Value="10"/>
+                        <Setter Property="Width" Value="10"/>
+                        <Setter Property="Fill" Value="Red"/>
+                    </Style>
+                    <Style TargetType="{x:Type Label}">
+                        <Setter Property="FontSize" Value="12"/>
+                        <Setter Property="Foreground" Value="Black"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                    </Style>
+                    <Style TargetType="{x:Type Separator}">
+                        <Setter Property="BorderBrush" Value="Gray"/>
+                        <Setter Property="Width" Value="35"/>
+                        <Setter Property="Height" Value="3"/>
+                        <Setter Property="Margin" Value="-10,16,-10,0"/>
+                        <Setter Property="RenderTransformOrigin" Value="0.5,0.5"/>
+                        <Setter Property="VerticalAlignment" Value="Top"/>
+                    </Style>
+                </StackPanel.Resources>
+
+                <Ellipse x:Name="YarpServerStatus"/>
+            <Label Content="Yarp Server"/>
+            <Separator >
+                <Separator.RenderTransform>                   
+                        <RotateTransform Angle="90"/>                      
+                </Separator.RenderTransform>
+            </Separator>
+                    
+            <Ellipse x:Name="FrameSenderStatus"/>
+            <Label Content="Frame Sender Module"/>
+            <Separator>
+                <Separator.RenderTransform>                 
+                        <RotateTransform Angle="90"/>                       
+                </Separator.RenderTransform>
+            </Separator>
+        </StackPanel>
+            </Border>
+
+        </Grid>
+
+
+
+    </Grid>
+</Window>

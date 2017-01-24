@@ -1,0 +1,102 @@
+﻿<Window x:Class="LeapFrameSender.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Leap Frame Sender" Height="300" Width="423" Closed="Window_Closed" ResizeMode="CanMinimize" >
+    <Grid Background="WhiteSmoke" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="35" />
+        </Grid.RowDefinitions>
+
+        
+            <Border  Margin="2" CornerRadius="2" BorderBrush="Gray" BorderThickness="2" Grid.Row="1">
+                <StackPanel Orientation="Horizontal" >
+                    <StackPanel Margin="5,5,0,5" HorizontalAlignment="Left">
+                        <Button Content="Start send" Height="23" Margin ="0,10" HorizontalAlignment="Center"  Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+                        <Label Name="lblInfo" Content="" HorizontalAlignment="Left" Height="120" Margin="0,15,0,0" VerticalAlignment="Center" Width="110" />
+                    </StackPanel>
+                    <StackPanel Margin="5,5,5,0" VerticalAlignment="Top" HorizontalAlignment="Left">
+                        <Label Content="ms between frames" Margin="0,10,0,5" HorizontalAlignment="Center" Height="24"  VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                        <Slider Name="slider" HorizontalAlignment="Center" Margin="0,5,0,5" VerticalAlignment="Top" Height="21" Width="100" ValueChanged="Slider_ValueChanged_1" LargeChange="50" SmallChange="10" Maximum="2000" Minimum="10" Value="100"/>
+                        <TextBox Name="tbTimeThreshold" HorizontalAlignment="Center"  Margin="0,5,0,10"  Text="100"  TextChanged="TextBox_TextChanged_1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="50"/>
+                    </StackPanel>
+                    <StackPanel Margin="5,5,5,0" VerticalAlignment="Top" HorizontalAlignment="Left">
+                        <StackPanel  VerticalAlignment="Top" HorizontalAlignment="Right" Orientation="Horizontal">
+                            <Label Content="Skipped frames" HorizontalAlignment="Right" Height="26"  VerticalAlignment="Top" Width="92"/>
+                            <Label Name="lblSkippedFrame" Content="0" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="50" HorizontalContentAlignment="Right"/>
+                        </StackPanel>
+                        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Right" Orientation="Horizontal">
+                            <Label Content="Frames sent" HorizontalAlignment="Right" Height="26"  VerticalAlignment="Top" Width="73"/>
+                            <Label Name="lblSentFrame" Content="0" HorizontalAlignment="Left"  VerticalAlignment="Top"  Width="50" HorizontalContentAlignment="Right"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+          
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="Margin" Value="8 0 8 0"/>
+                </Style>
+            </StackPanel.Resources>
+            <Image Width="130" Source="/Images/cp_trasparente.png"/>
+            <Image Width="140" Source="/Images/faceteam_trasparente.png"/>
+            <Image Width="100" Source="/Images/Unipi_trasparente.png"/>
+        </StackPanel>
+
+
+
+        <Border  Margin="0,0,0,0"  BorderBrush="Gray" BorderThickness="1" Grid.Row="2">
+            <StackPanel Name="Yarp" Orientation="Horizontal" Background="#FFFFEE9F" Grid.Row="2">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Ellipse}">
+                    <Setter Property="Margin" Value="5,0,1,0"/>
+                    <Setter Property="Height" Value="10"/>
+                    <Setter Property="Width" Value="10"/>
+                    <Setter Property="Fill" Value="Red"/>
+                </Style>
+                <Style TargetType="{x:Type Label}">
+                    <Setter Property="FontSize" Value="12"/>
+                    <Setter Property="Foreground" Value="Black"/>
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                </Style>
+                <Style TargetType="{x:Type Separator}">
+                    <Setter Property="BorderBrush" Value="Gray"/>
+                    <Setter Property="Width" Value="35"/>
+                    <Setter Property="Height" Value="3"/>
+                    <Setter Property="Margin" Value="-10,16,-10,0"/>
+                    <Setter Property="RenderTransformOrigin" Value="0.5,0.5"/>
+                    <Setter Property="VerticalAlignment" Value="Top"/>
+                </Style>              
+            </StackPanel.Resources>
+            
+            <Ellipse Name="YarpServerStatus"/>
+            <Label Content="Yarp Server"/>
+            <Separator>
+                <Separator.RenderTransform>
+                    <RotateTransform Angle="90"/>
+                </Separator.RenderTransform>
+            </Separator>
+            
+            <Ellipse Name="LeapSensorStatus"/>
+            <Label Content="Leap Sensor"/>
+            <Separator >
+                <Separator.RenderTransform>
+                        <RotateTransform Angle="90"/>
+                </Separator.RenderTransform>
+            </Separator>
+
+            <Ellipse Name="LeapFocusStatus"/>
+            <Label Content="Leap Sensor Focus"/>
+            <Separator>
+                <Separator.RenderTransform>
+                        <RotateTransform Angle="90"/>
+                </Separator.RenderTransform>
+            </Separator>
+
+        </StackPanel>
+        </Border>
+    </Grid>
+</Window>

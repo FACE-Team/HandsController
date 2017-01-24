@@ -1,0 +1,56 @@
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\bin\Debug\LeapFrameSender.exe.config
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\bin\Debug\LeapFrameSender.exe
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\bin\Debug\LeapFrameSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.g.resources
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.exe
+C:\Users\Andrea\Documents\face\c sharp\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\bin\Debug\LeapFrameSender.exe.config
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\bin\Debug\LeapFrameSender.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\bin\Debug\LeapFrameSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.g.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\bin\Debug\LeapFrameSender.exe.config
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\bin\Debug\LeapFrameSender.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\bin\Debug\LeapFrameSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender_MarkupCompile.cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.g.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.Properties.Resources.resources
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.exe
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.pdb
+C:\Users\Andrea\Documents\face\c sharp\Mani braccia\github\hands\LeapFrameSender\LeapFrameSender\obj\x86\Debug\LeapFrameSender.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapFrameSender.exe.config
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\LeapFrameSender.exe
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\LeapFrameSender.pdb
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\Leap.dll
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapCSharp.dll
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapFrameSender.exe
+C:\Users\Andrea\Documents\GitHub\HandsController\bin\Debug\LeapFrameSender.pdb
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\LeapFrameSender.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\LeapFrameSender_Content.g.cs
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\LeapFrameSender_MarkupCompile.cache
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\LeapFrameSender.g.resources
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\LeapFrameSender.Properties.Resources.resources
+C:\Users\Andrea\Documents\GitHub\HandsController\LeapFrameSender\obj\x86\Debug\LeapFrameSender.csproj.GenerateResource.Cache
