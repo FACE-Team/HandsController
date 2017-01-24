@@ -1,0 +1,6 @@
+[submodule "FACELibrary"]
+	path = FACELibrary
+	url = https://github.com/FACE-Team/FACELibrary
+[submodule "FACETools"]
+	path = FACETools
+	url = https://github.com/FACE-Team/FACETools
